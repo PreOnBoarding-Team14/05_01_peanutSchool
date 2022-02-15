@@ -1,3 +1,6 @@
+## 팀원
+[양성호 , 김영길 , 이나원]
+
 ## 배포 주소
 
 <a href=https://05-01-peanut-school-lam3z4as6-preonboarding-team14.vercel.app/>데시보드 페이지</a>
